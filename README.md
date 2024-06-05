@@ -1,3 +1,3 @@
-Grupo: Erick Cabral, Gabriel Pinto Andrade, Jonas de Godoi\n
-Trabalho 01 de Desenvolvimento Web\n
+Grupo: Erick Cabral, Gabriel Pinto Andrade, Jonas de Godoi<br>
+Trabalho 01 de Desenvolvimento Web<br>
 Framework Spring
